@@ -6,7 +6,7 @@ const int SECS_MIN = 60;
 
 int main()
 {
-	int seconds;
+	long long seconds;
 	int secs;
 	int mins;
 	int hours;
